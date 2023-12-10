@@ -12,4 +12,4 @@ I am a proactive and driven student currently enrolled at Austin Community Colle
 - ⚡ Fun facts: My favorite animal is a Unicorn...Yes a Unicorn 🦄  & My favorite Disney Character is Stitch 🛸
 - 🌈 Hobbies: Dancing 💃🏻 Reading 📖 
  - 😄 Pronouns: She/Her 👩🏻
-
+fav color;
