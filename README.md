@@ -9,6 +9,6 @@ I am a proactive and driven student currently enrolled at Western Governors Uinv
 
 - 🔭 I’m currently working on: AI Assistant: Ellie 🤖 Bruno's Island Adventure Game 🕹️
 - 🌱 I’m currently learning: Data Structures #️⃣ Unity 🕹️ Web & Mobile Design 🌐 Robotics & Circuits ⚡️
-- ⚡ Fun facts: My favorite animal is a Unicorn...Yes a Unicorn 🦄  & My favorite Disney Character is Stitch 🛸
+- ⚡ Fun facts: My favorite animal is a Unicorn 🦄 & My favorite Disney Character is Stitch 🛸
 - 🌈 Hobbies: Dancing 💃🏻 Reading 📖 
  - 😄 Pronouns: She/Her 👩🏻
