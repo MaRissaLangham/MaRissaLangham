@@ -17,5 +17,5 @@ Current mission: keep learning, keep building, and keep leveling up one commit a
 - 🔭 I’m currently working on: AI Assistant: Ellie 🤖 Bruno's Island Adventure Game 🕹️
 - 🌱 I’m currently learning: Data Structures #️⃣ Unity 🌐 Robotics & Circuits ⚡️
 - ⚡ Fun facts: My favorite animal is a Unicorn 🦄 & My favorite Disney Character is Stitch 🛸
-- 🌈 Hobbies: Gaming 🕹️ Reading 📖 
+- 🌈 Hobbies: Gaming 🕹️ Reading 📖 Cooking 👩🏻‍🍳 Gardening 🪴
  - 😄 Pronouns: She/Her 👩🏻
