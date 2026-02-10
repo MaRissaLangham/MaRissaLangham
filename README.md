@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=40&pause=1000&color=A183C0&center=true&width=435&height=75&lines=Hey%2C+Girlypop!+%F0%9F%91%8B;+I'm+Rissa!;" />
 </h1>
 
-**`Digital Craftsman (Student/Developer/UIDesigner/Creator/BusinessOwner)`**
+**`Digital Craftsman (Student/Developer/Weaver)`**
 
 I am a proactive and driven student currently enrolled at Texas State &  Austin Community College, where I am simultaneously pursuing three degrees: a Bachelor of Science in Computer Science, an Associate of Science in Mathematics, and an Associate of Science in Physics. 
     My academic journey reflects my unwavering commitment to excellence and a thirst for knowledge. I am relentlessly seeking opportunities in a dynamic and fast-paced environment that not only challenges me but also provides ample room for growth and advancement. As a collaborative and team-oriented individual, I firmly believe that hard work beats talent when talent doesn't work hard. My passion for acquiring new skills is boundless, and I am particularly drawn to high-demnand work settings where innovation and dedication thrive. I eagerly anticipate the prospect of applying my extensive knowledge and honed skills in a professional context, contributing to my continuous improvement. My aspiration is to make a significant impact in the workplace, and I am ready to seize the opportunity to do so.
