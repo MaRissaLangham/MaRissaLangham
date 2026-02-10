@@ -4,8 +4,15 @@
 
 **`Digital Craftsman (Student/Developer/Weaver)`**
 
-I am a proactive and driven student currently enrolled at Texas State &  Austin Community College, where I am simultaneously pursuing three degrees: a Bachelor of Science in Computer Science, an Associate of Science in Mathematics, and an Associate of Science in Physics. 
-    My academic journey reflects my unwavering commitment to excellence and a thirst for knowledge. I am relentlessly seeking opportunities in a dynamic and fast-paced environment that not only challenges me but also provides ample room for growth and advancement. As a collaborative and team-oriented individual, I firmly believe that hard work beats talent when talent doesn't work hard. My passion for acquiring new skills is boundless, and I am particularly drawn to high-demnand work settings where innovation and dedication thrive. I eagerly anticipate the prospect of applying my extensive knowledge and honed skills in a professional context, contributing to my continuous improvement. My aspiration is to make a significant impact in the workplace, and I am ready to seize the opportunity to do so.
+:brain: Professional overthinker :japanese_ogre: Part-time gremlin :art: Full-time creator of Chaos. 
+:speaking_head: Fluent in sarcasm, :chocolate_bar: snack-fueled, ☕️ 98% caffeine. 
+ :sparkles: Unverified chaos entity. :sparkles: Might bite. :smiling_imp:
+
+I’m a student at heart. I follow my Curiosity wherever it goes! My life is a rotating mixtape of studying, building, and creating. I’ve bounced across creative writing, brain science, physics, architecture, and plenty more. My interests don’t sit still, and neither do I. ✨ At home, I’m very much in my cozy era. I'm a wife + farm mom. I'm big on calm spaces, good practices, and little joys that make life feel grounded. I like things honest, balanced, and real… with a sense of humor because the universe is unserious.
+
+I build projects in Python, Java, and C++ — usually tools that automate annoying tasks, turn ideas into something interactive, or help me learn faster. I like my code clean, my curiosity loud, and my projects practical with a dash of chaos.
+
+Current mission: keep learning, keep building, and keep leveling up one commit at a time. 🚀
 
 - 🔭 I’m currently working on: AI Assistant: Ellie 🤖 Bruno's Island Adventure Game 🕹️
 - 🌱 I’m currently learning: Data Structures #️⃣ Unity 🌐 Robotics & Circuits ⚡️
