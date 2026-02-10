@@ -10,7 +10,7 @@
 
 I’m a student at heart. I follow my Curiosity wherever it goes! My life is a rotating mixtape of studying, building, and creating. I’ve bounced across creative writing, brain science, physics, architecture, and plenty more. My interests don’t sit still, and neither do I. ✨ At home, I’m very much in my cozy era. I'm a wife + farm mom. I'm big on calm spaces, good practices, and little joys that make life feel grounded. I like things honest, balanced, and real… with a sense of humor because the universe is unserious.
 
-I build projects in Python, Java, and C++ — usually tools that automate annoying tasks, turn ideas into something interactive, or help me learn faster. I like my code clean, my curiosity loud, and my projects practical with a dash of chaos.
+I build projects in Python, Java, C++, & more. Usually tools that automate annoying tasks, turn ideas into something interactive, or help me learn faster. I like my code clean, my curiosity loud, and my projects practical with a dash of chaos.
 
 Current mission: keep learning, keep building, and keep leveling up one commit at a time. 🚀
 
